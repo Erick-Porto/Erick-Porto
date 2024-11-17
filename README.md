@@ -1,6 +1,10 @@
 ## Hi there 👋
 ![Banner](https://github.com/user-attachments/assets/81c02547-da10-4bab-abad-e27f83c4f427)
 
+💬 Minha jornada na programação começou em 2016, com o curso de 'Robótica Educacional', onde aprendi a desenvolver projetos usando C++. Esse primeiro contato despertou em mim uma paixão pela tecnologia, que me levou a seguir carreira no desenvolvimento Web. Hoje, sou formado como programador júnior e técnico em Informática pelo Instituto Federal do Rio de Janeiro, e tenho sólida experiência em linguagens como JavaScript, PHP, MySQL, HTML, CSS, além de frameworks como ReactJS, Bootstrap e WordPress 
+
+Estou sempre em busca de novas oportunidades para criar soluções inovadoras que resolvam problemas complexos e agreguem valor às organizações. Se você está em busca de um profissional comprometido e dedicado, pronto para contribuir com soluções tecnológicas e trabalhar em equipe.
+
 <!--
 **Erick-Porto/Erick-Porto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
