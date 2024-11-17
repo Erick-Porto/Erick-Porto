@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Banner](https://github.com/user-attachments/assets/81c02547-da10-4bab-abad-e27f83c4f427)
 
 <!--
 **Erick-Porto/Erick-Porto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
