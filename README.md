@@ -1,5 +1,5 @@
 ## :star: Hello World :earth_americas:,  I'm Erick! :star:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=10DC00DC&background=FF000000&center=true&multiline=true&repeat=false&width=720&lines=Full-Stack+Web+%26+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=79ff97&background=FF000000&center=true&multiline=true&repeat=false&width=720&lines=Full-Stack+Web+%26+Software+Developer)](https://git.io/typing-svg)
 
 My journey began in 2016, where I learned to develop projects using C++. This awakened in me a passion for technology. Today, I graduated as a Developer and Computer Science Technician from the Federal Institute of Rio de Janeiro. I am currently graduating as a Technologist in Computer Systems at Universidade Federal Fluminense.
 
