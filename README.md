@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E99CA&background=FF000000&center=true&width=435&lines=Hello%2C+I'm+Erick+Porto.;Nice+to+meet+you!;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+
 ![Banner](https://github.com/user-attachments/assets/81c02547-da10-4bab-abad-e27f83c4f427)
 
 💬 Minha jornada na programação começou em 2016, com o curso de 'Robótica Educacional', onde aprendi a desenvolver projetos usando C++. Esse primeiro contato despertou em mim uma paixão pela tecnologia, que me levou a seguir carreira no desenvolvimento Web. Hoje, sou formado como programador júnior e técnico em Informática pelo Instituto Federal do Rio de Janeiro, e tenho sólida experiência em linguagens como JavaScript, PHP, MySQL, HTML, CSS, além de frameworks como ReactJS, Bootstrap e WordPress 
