@@ -1,5 +1,5 @@
 # Hello World!  I'm Erick
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=10DC00DC&background=FF000000&center=true&multiline=true&repeat=false&width=1080&lines=Full-Stack+Web+%26+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=10DC00DC&background=FF000000&center=true&multiline=true&repeat=false&width=720&lines=Full-Stack+Web+%26+Software+Developer)](https://git.io/typing-svg)
 
 ![Banner](https://github.com/user-attachments/assets/81c02547-da10-4bab-abad-e27f83c4f427)
 
