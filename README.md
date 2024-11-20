@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E99CA&background=FF000000&center=true&width=435&lines=Hello%2C+I'm+Erick+Porto.;Nice+to+meet+you!;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+# Hello World ![Earth](https://github.com/user-attachments/assets/042b1648-cde4-4cea-9890-4deb563e6d61)!  I'm Erick Porto
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E99CA&background=FF000000&center=true&multiline=true&repeat=false&width=435&lines=Full-Stack+Web+%26+Software+Developer)](https://git.io/typing-svg)
 
 ![Banner](https://github.com/user-attachments/assets/81c02547-da10-4bab-abad-e27f83c4f427)
 
